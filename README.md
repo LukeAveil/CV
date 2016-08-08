@@ -8,29 +8,13 @@ My journey to become a developer and has been incredible so far, full of highs a
 
 ## Skills
 
-#### Full Stack Development
+#### Full stack development
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Through my time spent at Makers Academy I have become proficient in working in all areas of web development. I have the skills and experience to be able to immediately contribute to both front-end and back-end development.
 
-- Experience
-- Achievements
-- Evidence
+#### Ability and eagerness to learn fast
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
-
-#### Fast Learner
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+Just over four months ago I knew a limited amount of HTML, CSS and JavaScript, and that was the extent of my web development knowledge. Since then I have completed projects using Ruby, Ruby on Rails, Sinatra, Node.js, Express.js, JavaScript and various API's. I have also learnt about concepts that I had never even heard of until a few months ago, and more importantly learnt how to follow these practices when developing projects.
 
 #### Collaboration
 
