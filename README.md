@@ -1,10 +1,11 @@
-## Your Name
+## Luke Aveil
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+A freelance photographer and adventurer turned junior developer. An initial curiosity for code and attempt to teach myself how to code, has led me out of my comfort zone to pursue a career in something I never thought possible.
 
+I have just completed 16 weeks intensive training at Makers Academy, Europe's leading full stack coding bootcamp. During my time at Makers I have developed a passion for object-orientated design, clean test-driven code and working in a collaborative environment.
 ## Skills
 
-#### This Skill
+#### Full Stack Development
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -12,7 +13,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Achievements
 - Evidence
 
-#### Another Skill
+#### Fast Learner
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -21,9 +22,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
+#### Collaboration
+
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (April 2016 to August 2016)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -32,11 +35,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### London Southbank University (start_date to end_date)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BA Honours Digital Photography, 2:2
 
 #### Any other qualifications
 
