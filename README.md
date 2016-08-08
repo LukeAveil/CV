@@ -5,7 +5,7 @@
 A freelance photographer and adventurer turned junior developer. A curiosity for code and attempt to teach myself how to program, has led me out of my comfort zone to pursue a career in something I never thought possible.
 
 I have just completed 16 weeks intensive training at Makers Academy, Europe's leading full stack coding bootcamp. During my time at Makers I have developed a passion for object-orientated design, clean test-driven code and working in a collaborative environment.
-## <a name="Skills">Skills</a>
+## <a name="skills">Skills</a>
 
 #### Full Stack Development
 
@@ -26,7 +26,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Collaboration
 
-## <a name="Education">Education</a>
+## <a name="education">Education</a>
 
 #### Makers Academy (April 2016 to August 2016)
 
@@ -45,7 +45,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - CASI level 1 snowboard instructor
 
-## <a ="Experience">Experience</a>
+## <a ="experience">Experience</a>
 
 **Kathmandu** (April 2014 to December 2015)    
 Trainee Manager at Australia's leading outdoor adventure retailer. I was based in their flagship Melbourne store.
@@ -53,7 +53,7 @@ Trainee Manager at Australia's leading outdoor adventure retailer. I was based i
 **Documentary Arts Asia** (January 2012 to April 2012)   
 Intern at Thailand based NGO. I helped setup and run of an organisation that raises awareness of humanitarian and environmental issues across Asia. I curated photography exhibitions from leading documentary photographers and helped organise a hugely successful multi-day documentary photography and film festival.
 
-## <a ="Facts">Other interesting things about me</a>
+## <a ="facts">Other interesting things about me</a>
 
 - Recently returned from living in Australia for the past 3.5 years
 - Have had a photograph published by National Geographic
