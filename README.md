@@ -12,15 +12,23 @@ My journey to become a developer and has been incredible so far, full of highs a
 
 Through my time spent at Makers Academy I have become proficient in working in all areas of web development. Whilst working on several collaborative projects I have focused on all aspects of the development process, these skills and experiences allow me to immediately contribute to both front-end and back-end development.
 
-#### Ability and eagerness to learn fast
+#### Ability and eagerness to learn
 
-Just over four months ago I knew a limited amount of HTML, CSS and JavaScript, and that was the extent of my web development knowledge. Since then I have completed projects using Ruby, Rails, Sinatra, Node.js, Express.js and JavaScript. I have also learnt about concepts that I had never even heard of until a few months ago, and more importantly learnt how to follow these practices whilst developing my own projects.
+Just over four months ago I knew a limited amount of HTML, CSS and JavaScript, and that was the extent of my web development knowledge. Since then I have made web apps using Ruby, Rails, Sinatra, Node.js, Express.js and JavaScript. I have also learnt about higher level concepts that I had never come across before, such as TDD, OOP, CRUD and agile.
+
 
 #### Collaboration
 
 #### Unflappable
 
 #### Creative
+
+## Code examples
+
+| Name | Description | Technologies | Testing |
+|------|-------------|--------------|---------|
+|[SMRT-Mirror](https://github.com/LukeAveil/smrtMirror)| A mirror that displays information that can be customised by the user and interacted with using gesture controls.| leap motion, node.js, jquery, javascript, sass, html, nunjucks| mocha, chai, webdriver
+|[Crowd Code](https://github.com/LukeAveil/crowdcode)| A platform for project managers to source developers to work on a project.| ruby, rails, postgres, jquery, javascript, html, css | rspec, capybara
 
 ## Education
 
@@ -31,21 +39,32 @@ Just over four months ago I knew a limited amount of HTML, CSS and JavaScript, a
 - Highly selective application process
 - Emphasis on pair programming, TDD and agile methodologies
 
-#### London Southbank University (start_date to end_date)
+#### London Southbank University (September 2007 to June 2010)
 
 - BA Honours Digital Photography
+
+#### Kent Institute of Art and Design (September 2003 to June 2004)
+
+- BTEC Diploma in Foundation Studies: Art and Design
+
+#### Maidstone Grammar School for Boys (September 2006 to June 2003)
+
+- 10 GCSEs
+- 3 AS Levels (Maths, Physics and Philosophy)
+- 2 A Levels (Art and Design Technology)
 
 #### Other qualifications
 
 - CASI level 1 snowboard instructor
 
+
 ## Experience
 
 **Kathmandu** (April 2014 to December 2015)    
-Trainee Manager at Australia's leading outdoor adventure retailer. I was based in their flagship Melbourne store.
+Trainee Manager at Australia's leading outdoor adventure retailer. I was based in the flagship Melbourne store.
 
 **Sabi Studios** (December 2014 to May 2015)
-Photographer at Melbourne based commercial photography studio. Worked on a large scale project for a real estate company, this involved travelling around Australia and developing a visual profile of city suburbs.
+Photographer at Melbourne based commercial photography studio. I worked on a large scale project for a real estate company, this involved travelling around Australia and developing a visual profile of city suburbs.
 
 **Documentary Arts Asia** (January 2012 to April 2012)   
 Intern at Thailand based NGO. I helped setup and run of an organisation that raises awareness of humanitarian and environmental issues across Asia. I curated photography exhibitions from leading documentary photographers and helped organise a hugely successful multi-day documentary photography and film festival.
@@ -58,3 +77,4 @@ Intern at Thailand based NGO. I helped setup and run of an organisation that rai
 - Pretty good at table tennis
 - Fortunate to have travelled to some amazing corners of the earth
 - Was chased down a jungle cliff in Sumatra by an orangutan called Jackie
+- Up to date examples of my photography can be found [here](https://www.instagram.com/lukeaveilphotography/)
