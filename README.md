@@ -14,8 +14,7 @@ Through my time spent at Makers Academy I have become proficient in working in a
 
 #### Ability and eagerness to learn
 
-Just over four months ago I knew a limited amount of HTML, CSS and JavaScript, and that was the extent of my web development knowledge. Since then I have made web apps using Ruby, Rails, Sinatra, Node.js, Express.js and JavaScript. I have also learnt about higher level concepts that I had never come across before, such as TDD, OOP, CRUD and agile.
-
+Just over four months ago I knew a limited amount of HTML, CSS and JavaScript, and that was the extent of my web development knowledge. Since then I have made web apps using Ruby, Rails, Sinatra, Node.js, Express.js and JavaScript. I have also learnt about higher level concepts that I had never come across before, such as TDD, OOP, CRUD and agile, all of which I had never heard of four months ago.
 
 #### Collaboration
 
@@ -49,9 +48,9 @@ Just over four months ago I knew a limited amount of HTML, CSS and JavaScript, a
 
 #### Maidstone Grammar School for Boys (September 2006 to June 2003)
 
-- 10 GCSEs
-- 3 AS Levels (Maths, Physics and Philosophy)
 - 2 A Levels (Art and Design Technology)
+- 3 AS Levels (Maths, Physics and Philosophy)
+- 10 GCSEs
 
 #### Other qualifications
 
