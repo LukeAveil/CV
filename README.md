@@ -66,13 +66,15 @@ Trainee Manager at Australia's leading outdoor adventure retailer. I was based i
 **Sabi Studios** (December 2014 to May 2015)
 Photographer at Melbourne based commercial photography studio. I worked on a large scale project for a real estate company, this involved travelling around Australia and developing a visual profile of city suburbs.
 
+**Regional Work Australia** (May 2012 to April 2013)
+All manner of weird and wonderful jobs in rural Victoria. Apart from the usual fruit picking/slave labour I had a couple of unusual and memorable jobs: working with a team of sheep shearers on various outback stations, and making wine at Australia's second biggest winery.
+
 **Documentary Arts Asia** (January 2012 to April 2012)   
 Intern at Thailand based NGO. I helped setup and run of an organisation that raises awareness of humanitarian and environmental issues across Asia. I curated photography exhibitions from leading documentary photographers and helped organise a hugely successful multi-day documentary photography and film festival.
 
 ## Other interesting things about me
 
-- Have been living in Australia for the past 3.5 years
-- Well travelled
+- Fortunate enough to have travelled to some amazing parts of the world
 - Avid [photographer](https://www.instagram.com/lukeaveilphotography/)
 - Won National Geographic's ['photo of the day'](http://www.nationalgeographic.com/photography/photo-of-the-day/2014/7/fitzroy-gardens-melbourne-australia/)
 - Love table tennis
