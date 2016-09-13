@@ -1,6 +1,6 @@
 ## Luke Aveil
 
-I am a freelance photographer and adventurer turned junior developer. Having just completed 16 weeks intensive training at Makers Academy, Europe's leading full stack coding bootcamp. I am open to employment opportunities and now seeking my first paid role as a developer.
+My background is in retail, photography and travelling the globe, but last year I decided to pursue a passion of mine that I had always thought to be out of reach...to become a software developer. I have just completed 16 weeks intensive training at Makers Academy, Europe's leading full stack coding bootcamp. I am open to employment opportunities and now seeking my first paid role as a developer.
 
 My journey to become a developer and has been incredible so far, full of highs and lows and everything in-between. For an insight into my adventure you can read my blog [here](https://medium.com/@lukeaveil).
 
