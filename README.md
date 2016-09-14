@@ -1,6 +1,6 @@
 ## Luke Aveil
 
-My background is in retail, photography and travelling the globe, but last year I decided to pursue a passion of mine that I had always thought to be out of reach...to become a software developer. I have just completed 16 weeks intensive training at Makers Academy, Europe's leading full stack coding bootcamp. I am open to employment opportunities and now seeking my first paid role as a developer.
+My background is in retail, photography and adventure, but last year I decided to pursue a passion of mine that I had always thought to be out of reach...to become a software developer. I have just completed 16 weeks intensive training at Makers Academy, Europe's leading full stack coding bootcamp. I am open to employment opportunities and look forward to applying my skills as a junior developer.
 
 My journey to become a developer and has been incredible so far, full of highs and lows and everything in-between. For an insight into my adventure you can read my blog [here](https://medium.com/@lukeaveil).
 
@@ -37,7 +37,7 @@ Photography is a major part of my life, it was the catalyst for me being able to
 - Europe's leading coding bootcamp
 - 16 week program
 - Highly selective application process
-- Emphasis on pair programming, TDD and agile methodologies
+- Emphasis on pair programming, TDD, XP values and agile methodologies
 
 #### London Southbank University (September 2007 to June 2010)
 
@@ -75,7 +75,6 @@ Intern at Thailand based NGO. I helped setup and run of an organisation that rai
 ## Other interesting things about me
 
 - Fortunate enough to have travelled to some amazing parts of the world
-- Avid [photographer](https://www.instagram.com/lukeaveilphotography/)
-- Won National Geographic's ['photo of the day'](http://www.nationalgeographic.com/photography/photo-of-the-day/2014/7/fitzroy-gardens-melbourne-australia/)
-- Love table tennis
-- Like to think I am a pretty good cook
+- Avid [photographer](https://www.instagram.com/lukeaveilphotography/), achieved a lifetime goal of winning National Geographic's ['photo of the day'](http://www.nationalgeographic.com/photography/photo-of-the-day/2014/7/fitzroy-gardens-melbourne-australia/) back in 2014
+- Table tennis and basketball are my sports of choice
+- Foodie and self confessed borderline coffee snob
