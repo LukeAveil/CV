@@ -12,11 +12,11 @@ Through my time spent at Makers Academy I have become proficient in working in a
 
 #### Eagerness to learn
 
-Being thrown in 'the deep end' every day has helped me develop the ability to learn new subjects/concepts/languages fast and efficiently. Not being afraid of learning something new, no matter how complex, has become second nature and I am always striving to further my knowledge of anything I do not fully understand.
+Being thrown in 'the deep end' every day has helped me develop the ability to learn new subjects/concepts/languages fast and efficiently. Not being afraid of learning something new, no matter how complex, has become second nature and I am always striving to further my knowledge.
 
 #### Collaboration
 
-My visual arts background means that I have had several opportunities to work on numerous collaborative projects: organising an arts festival in Thailand, photographing city suburbs in Australia and organising a street art festival in London are a few of the projects I have been part of. During my time at Makers Academy I worked on several group projects and pair programmed pretty much every day for 12 weeks. I am a firm believer that two heads are better than one.
+My visual arts background means that I have had several opportunities to work on several collaborative projects: organising an arts festival in Thailand, photographing city suburbs in Australia and organising a street art festival in London. During my time at Makers Academy I worked on various group projects and pair programmed on a daily basis, I am a firm believer that two heads are better than one.
 
 #### Photography
 
