@@ -1,7 +1,6 @@
 ## Luke Aveil
 
-My background is in retail, photography and adventure, but last year I decided to pursue a passion of mine that I had always thought to be out of reach...to become a software developer. I have just completed 16 weeks intensive training at Makers Academy, Europe's leading full stack coding bootcamp. I am open to employment opportunities and look forward to applying my skills as a junior developer.
-
+I have just completed 16 weeks intensive training at Makers Academy, Europe's leading full stack coding bootcamp. I am open to employment opportunities and look forward to applying my skills as a junior developer.
 My journey to become a developer and has been incredible so far, full of highs and lows and everything in-between. For an insight into my adventure you can read my blog [here](https://medium.com/@lukeaveil).
 
 ## Skills
