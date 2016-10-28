@@ -1,7 +1,6 @@
 ## Luke Aveil
 
-I have just completed 16 weeks intensive training at Makers Academy, Europe's leading full stack coding bootcamp. I am open to employment opportunities and look forward to applying my skills as a junior developer.
-My journey to become a developer and has been incredible so far, full of highs and lows and everything in-between. For an insight into my adventure you can read my blog [here](https://medium.com/@lukeaveil).
+I am a Ruby developer that specialises in front-end technologies.
 
 ## Skills
 
@@ -15,11 +14,7 @@ Being thrown in 'the deep end' every day has helped me develop the ability to le
 
 #### Collaboration
 
-My visual arts background means that I have had several opportunities to work on several collaborative projects: organising an arts festival in Thailand, photographing city suburbs in Australia and organising a street art festival in London. During my time at Makers Academy I worked on various group projects and pair programmed on a daily basis, I am a firm believer that two heads are better than one.
-
-#### Photography
-
-Photography is a major part of my life, it was the catalyst for me being able to travel the world and call Australia home. I have been taking photographs for ten years, during that time I have developed a strong attention to detail and the ability to construct well composed images. Along with being comfortable behind the camera I have a lot of experience using Photoshop and Lightroom, and am able to learn other imaging software quickly and efficiently.
+My visual arts background means that I have had several opportunities to work on several collaborative projects: organising an arts festival in Thailand, photographing city suburbs in Australia and organising a street art festival in London. During my time at Makers Academy I worked on various group projects and pair programmed on a daily basis, this gave me experience working with people from various backgrounds and of varying skill level.
 
 ## Code examples
 
@@ -76,4 +71,3 @@ Intern at Thailand based NGO. I helped setup and run of an organisation that rai
 - Fortunate enough to have travelled to some amazing parts of the world
 - Avid [photographer](https://www.instagram.com/lukeaveilphotography/), achieved a lifetime goal of winning National Geographic's ['photo of the day'](http://www.nationalgeographic.com/photography/photo-of-the-day/2014/7/fitzroy-gardens-melbourne-australia/) back in 2014
 - Table tennis and basketball are my sports of choice
-- Foodie and self confessed borderline coffee snob
