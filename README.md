@@ -14,7 +14,7 @@ Being thrown in 'the deep end' every day has helped me develop the ability to le
 
 #### Collaboration
 
-My visual arts background means that I have had several opportunities to work on several collaborative projects: organising an arts festival in Thailand, photographing city suburbs in Australia and organising a street art festival in London. During my time at Makers Academy I worked on various group projects and pair programmed on a daily basis, this gave me experience working with people from various backgrounds and of varying skill level.
+My visual arts background means that I have had several opportunities to work on several collaborative projects: organising an arts festival in Thailand, photographing city suburbs in Australia and organising a street art festival in London. During my time at Makers Academy I worked on various group projects and pair programmed on a daily basis, this gave me experience working with a range of different people at varying levels of expertise.
 
 ## Tech I Work With
 
