@@ -16,6 +16,20 @@ Being thrown in 'the deep end' every day has helped me develop the ability to le
 
 My visual arts background means that I have had several opportunities to work on several collaborative projects: organising an arts festival in Thailand, photographing city suburbs in Australia and organising a street art festival in London. During my time at Makers Academy I worked on various group projects and pair programmed on a daily basis, this gave me experience working with people from various backgrounds and of varying skill level.
 
+## Tech I Work With
+
+#### Back-end
+- Ruby, Rails, Sinatra, PostgresSQL, Node.js and Express.js
+
+#### Front-end
+- Javascript, jQuery, Angular 1, React, HTML, Nunjucks, CSS and SASS
+
+#### Testing
+- RSpec, Capybara, Jasmine, Karma, Protractor, Mocha/Chai and WebdriverIO
+
+#### Others
+- Git, Github, Webpack, npm and Photoshop
+
 ## Code examples
 
 | Name | Description | Technologies | Testing |
@@ -69,5 +83,5 @@ Intern at Thailand based NGO. I helped setup and run of an organisation that rai
 ## Other interesting things about me
 
 - Fortunate enough to have travelled to some amazing parts of the world
-- Avid [photographer](https://www.instagram.com/lukeaveilphotography/), achieved a lifetime goal of winning National Geographic's ['photo of the day'](http://www.nationalgeographic.com/photography/photo-of-the-day/2014/7/fitzroy-gardens-melbourne-australia/) back in 2014
+- Avid [photographer](https://www.instagram.com/lukeaveilphotography/)
 - Table tennis and basketball are my sports of choice
