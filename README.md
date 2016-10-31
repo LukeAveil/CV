@@ -1,6 +1,6 @@
 ## Luke Aveil
 
-I am a Ruby developer that specialises in front-end technologies.
+I am a Ruby and JavaScript developer with a passion for building integrated front-ends.
 
 ## Skills
 
@@ -8,9 +8,9 @@ I am a Ruby developer that specialises in front-end technologies.
 
 Through my time spent at Makers Academy I have become proficient in working in all areas of web development. Whilst working on several collaborative projects I have focused on all aspects of the development process, these skills and experiences allow me to immediately contribute to both front-end and back-end development.
 
-#### Eagerness to learn
+#### Fearless learner
 
-Being thrown in 'the deep end' every day has helped me develop the ability to learn new subjects/concepts/languages fast and efficiently. Not being afraid of learning something new, no matter how complex, has become second nature and I am always striving to further my knowledge.
+Being thrown in 'the deep end' every day has helped me develop the ability to learn new technologies fast and efficiently. I’ll attempt any task that is thrown at me, but when things are beyond my capabilities I am able to give quick and concise feedback as to why. Not being afraid of learning something new, no matter how complex, has become second nature and I am always striving to further my knowledge.
 
 #### Collaboration
 
